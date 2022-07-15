@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+}
+
+header{
+    background-color: red;
+}
+header p{
+    text-align: center;           /*for center*/
+    color: aqua;                /*tesxt color of p*/
+}
+section.rr{
+    color: rgb(19, 18, 18);
+    background-color: azure;
+}
+.simple_heading{                      /*. use for class*/
+    text-align: center;
+}
+p.simple_heading{
+    text-align: center;
+}
+
+*{                         /*universal selector*/
+    color: black;
+    background-color: bisque;
+
+}
+li a{
+    color: rgb(44, 176, 103);
+}
+section.rr h2{             /*rr is a class name*/
+    color: chocolate;
+}
+ul+h2{                        
+    color: crimson;
+}

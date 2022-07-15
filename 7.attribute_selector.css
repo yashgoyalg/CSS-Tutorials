@@ -1,0 +1,13 @@
+input[type="text"]{
+    color: blue; 
+    background-color: blanchedalmond;        /*now whnevr you write somthing on text field it will be of blue color*/
+}
+input[type="passward"]{
+    background-color: chocolate;
+}
+a[href="www.google.com"]{
+    color: brown;
+}
+a[href ^="wwww"]{
+    color: gold;
+}
