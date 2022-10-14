@@ -1,0 +1,13 @@
+::first-letter{
+    font-size: 23px;
+    color: blueviolet;
+    background: wheat;
+}
+::first-line{
+    color: rgb(39, 35, 42);
+    background: rgb(115, 76, 4);
+}
+::selection{
+    color: antiquewhite;
+    background: gray;
+}

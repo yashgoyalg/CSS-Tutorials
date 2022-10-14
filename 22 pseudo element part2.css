@@ -1,0 +1,9 @@
+.cool::after{
+    content: " Thank You";
+    color: rgb(238, 105, 105);
+    font-size: 20px;
+}
+.cool::before{
+    content: "************* ";
+    color: blue;
+}
